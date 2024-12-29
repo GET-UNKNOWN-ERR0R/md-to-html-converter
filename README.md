@@ -4,7 +4,9 @@ This project is a simple Python program that converts Markdown (`.md`) files int
 
 ## Output
 
-![images](mdhtml.png)
+![images](mdhtml1.png)
+and
+![images](mdhtml2.png)
 
 ## Features
 - Converts Markdown to HTML
