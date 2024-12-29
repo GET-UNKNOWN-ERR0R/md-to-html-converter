@@ -5,7 +5,9 @@ This project is a simple Python program that converts Markdown (`.md`) files int
 ## Output
 
 ![images](mdhtml1.png)
-and
+
+### Newly Generated HTML File
+
 ![images](mdhtml2.png)
 
 ## Features
@@ -26,5 +28,5 @@ and
    python3 md-to-html-converter.py
    ```
  ## License 
-   
+   This project is licensed under the MIT License - see the LICENSE file for details.
    
